@@ -1,0 +1,8 @@
+Pradeep to forgot the GitHub process
+system.out.println(Pradeep)
+
+system.out.println(a)
+system.out.println(b)
+system.out.println(c)
+system.out.println(d)
+
