@@ -4,3 +4,9 @@
 /bin/
 /bin/
 /bin/
+
+system.out.println(abc)
+system.out.println(def)
+system.out.println(ghi)
+
+
